@@ -1,0 +1,32 @@
+{
+  "name": "serious-themes",
+  "version": "0.1.0",
+  "description": "Themes for Serious.",
+  "main": "build.js",
+  "dependencies": {
+    "autoprefixer": "^9.4.5",
+    "clean-css": "^4.2.1",
+    "fs-jetpack": "^2.2.0",
+    "postcss": "^7.0.11"
+  },
+  "devDependencies": {
+    "node-zip": "^1.1.1"
+  },
+  "scripts": {
+    "start": "node build"
+  },
+  "author": "Chapel",
+  "license": "MIT",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChapelR/serious-themes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChapelR/serious-themes/issues"
+  },
+  "homepage": "https://twinelab.net/serious"
+}
